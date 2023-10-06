@@ -1,4 +1,4 @@
-#This is a guess the number game
+#This is a guess the number game test your guessing supremacy 
 import random
 secret_number=random.randint(1,30)
 print("I'm thinking of a number between 1 to 30")
